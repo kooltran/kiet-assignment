@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/kiet-assignment/static/js/main.68ec67dd.chunk.js",
-    "main.js.map": "/kiet-assignment/static/js/main.68ec67dd.chunk.js.map",
+    "main.js": "/kiet-assignment/static/js/main.ea36bdeb.chunk.js",
+    "main.js.map": "/kiet-assignment/static/js/main.ea36bdeb.chunk.js.map",
     "runtime-main.js": "/kiet-assignment/static/js/runtime-main.83faab7d.js",
     "runtime-main.js.map": "/kiet-assignment/static/js/runtime-main.83faab7d.js.map",
     "static/js/2.d0da043a.chunk.js": "/kiet-assignment/static/js/2.d0da043a.chunk.js",
     "static/js/2.d0da043a.chunk.js.map": "/kiet-assignment/static/js/2.d0da043a.chunk.js.map",
     "index.html": "/kiet-assignment/index.html",
-    "precache-manifest.9270f300c53b5c8227930cf73e3569fe.js": "/kiet-assignment/precache-manifest.9270f300c53b5c8227930cf73e3569fe.js",
+    "precache-manifest.fa1798e10256a2f6d4a0dd963d561e7b.js": "/kiet-assignment/precache-manifest.fa1798e10256a2f6d4a0dd963d561e7b.js",
     "service-worker.js": "/kiet-assignment/service-worker.js",
     "static/js/2.d0da043a.chunk.js.LICENSE": "/kiet-assignment/static/js/2.d0da043a.chunk.js.LICENSE",
     "static/media/loading.svg": "/kiet-assignment/static/media/loading.e6e9715c.svg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.83faab7d.js",
     "static/js/2.d0da043a.chunk.js",
-    "static/js/main.68ec67dd.chunk.js"
+    "static/js/main.ea36bdeb.chunk.js"
   ]
 }

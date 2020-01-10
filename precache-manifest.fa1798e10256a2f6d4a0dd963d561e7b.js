@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e8521a9e46fea8dd51839f0f80dc791",
+    "revision": "4e67f5d317cdb986052b1d27682d9d62",
     "url": "/kiet-assignment/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kiet-assignment/static/js/2.d0da043a.chunk.js.LICENSE"
   },
   {
-    "revision": "a4806e1a019672d221b5",
-    "url": "/kiet-assignment/static/js/main.68ec67dd.chunk.js"
+    "revision": "8d6f62fb845efc376704",
+    "url": "/kiet-assignment/static/js/main.ea36bdeb.chunk.js"
   },
   {
     "revision": "67b959fd71f98c2dce5e",
